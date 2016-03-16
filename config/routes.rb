@@ -1,6 +1,8 @@
 Rails.application.routes.draw do
 
-  root 'application#index'
+  #root 'spaces#index'
 
-  get '*path' => 'application#index'
+  get 'spaces' => 'spaces#index'
+
+  resources :spaces
 end
