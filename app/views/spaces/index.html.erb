@@ -1,0 +1,14 @@
+<%= link_to "Add a space", new_space_path %>
+
+<% if @spaces.any? %>
+  <% @spaces.each do |space| %>
+    <h2><%= space.name %></h2>
+    <h2><%= space.price %></h2>
+    <h2><%= space.availability %></h2>
+    <h2><%= space.location %></h2>
+    <h2><%= space.size %></h2>
+    <h2><%= space.property_type %></h2>
+  <% end %>
+<% else %>
+    <p>No spaces yet!</p>
+<% end %>
