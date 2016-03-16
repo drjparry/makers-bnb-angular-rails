@@ -1,5 +1,45 @@
-Makers BnB - Week 9, Angular Rails Project
 
-Team Members:
+# Makers BnB Improved
 
-David Parry, Elaine Finn, Rebecca Piper, Godfrey Chiu, Yan-Yi Li
+## Description
+
+It's Makers BnB, but Improved! We've rebuilt this project using Rails on the backend and AngularJS on the frontend.
+
+
+## Team Members
+- Rebecca Piper
+- Elaine Finn
+- Yan-Yi Li
+- David Parry
+- Godfrey Chiu
+
+
+## Technology Stack
+
+- AngularJS
+- Ruby on Rails
+
+
+## Installation Instructions
+- :construction:
+
+
+## Testing Instructions
+- :construction:
+
+
+## Implementation
+
+:construction:
+
+
+## User Stories
+
+### MVP
+
+:construction:
+
+### Nice to haves
+
+:construction:
+
